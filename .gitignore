@@ -1,1 +1,1 @@
-node_modules/\ndist/\n*.swp
+node_modules/\ndist/\n*.swp\npackage-lock.json\ntest.mjs
